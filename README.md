@@ -52,14 +52,14 @@ The system is designed with strong security practices:
 
 ## Tech Stacks : 
 
-- <a href="https://nodejs.org/fr" target="_blank"> <img  width="25px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" ></img></a>
+- <a href="https://nodejs.org/fr" target="blank"> <img  width="25px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" ></img></a>
 **Node js** :  JavaScript runtime for the server environment
-- <a href="https://nestjs.com" target="_blank"><img  width="25px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" ></img></a>
+- <a href="https://nestjs.com" target="blank"><img  width="25px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" ></img></a>
 **Nest js** : Backend framework for building scalable server-side applications
-- <a href="https://nextjs.com" target="_blank"><img  width="25px" height="auto" src="https://tech.sparkfabrik.com/images/content/nextjs/nextjs-logo.jpg" ></img> </a>
+- <a href="https://nextjs.com" target="blank"><img  width="25px" height="auto" src="https://tech.sparkfabrik.com/images/content/nextjs/nextjs-logo.jpg" ></img> </a>
 **Next js** :  React-based framework for the frontend with server-side rendering  
-- <a href="https://www.postgresql.org/" target="_blank"> <img  width="40px" height="auto" src="https://www.cleo.com/sites/default/files/2023-12/postgresql-logo.png" ></img></a>
+- <a href="https://www.postgresql.org/" target="blank"> <img  width="40px" height="auto" src="https://www.cleo.com/sites/default/files/2023-12/postgresql-logo.png" ></img></a>
 **Postgres SQL** : Relational database for data storage
 
-- <a href="https://tailwindcss.com/" target="_blank"> <img  width="40px" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" ></img></a>
+- <a href="https://tailwindcss.com/" target="blank"> <img  width="40px" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" ></img></a>
 **Tailwind css** :  Utility-first CSS framework for styling  
