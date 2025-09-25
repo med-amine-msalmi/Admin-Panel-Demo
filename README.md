@@ -1,8 +1,10 @@
 # Admin-Panel
 
 This project involves designing and developing a simple, intuitive, and high-performance administration interface. It implements the key management modules, including banners, newsletters, users, articles, promotions, orders, and deliveries. Access security is ensured through a role- and privilege-based system, while the content displayed on the client side is managed dynamically.
+## Database schema
 
-## Modules : 
+![Database](DatabaseScheama.png)
+## Modules 
 
 1. 📌 Banner :
    This module allows multimedia admin to create, edit, activate/deactivate, and prioritize banners.
